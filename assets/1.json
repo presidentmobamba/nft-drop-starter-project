@@ -1,0 +1,19 @@
+{
+    "name": "Cup GOO",
+    "symbol": "yas",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "mYnRT1M5GgGxaUiicNPr6rTmTHe4uSniRXvuenvCnx2",
+          "share": 100
+        }
+      ]
+    }
+  }

@@ -1,0 +1,19 @@
+{
+    "name": "Money GOO",
+    "symbol": "yas",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "mYnRT1M5GgGxaUiicNPr6rTmTHe4uSniRXvuenvCnx2",
+          "share": 100
+        }
+      ]
+    }
+  }

@@ -1,7 +1,27 @@
 {
-    "name": "NAME_OF_NFT",
+    "name": "Testing",
     "symbol": "",
+    "description": "Celebratory Solflare NFT for the Solflare X launch",
+    "seller_fee_basis_points": 250,
     "image": "0.png",
+    "attributes": [
+      {
+        "trait_type": "web",
+        "value": "yes"
+      },
+      {
+        "trait_type": "mobile",
+        "value": "yes"
+     },
+     {
+        "trait_type": "extension",
+        "value": "yes"
+      }
+    ],
+    "collection": {
+       "name": "Project Stonks",
+       "family": "WAGMI"
+    },
     "properties": {
       "files": [
         {
@@ -9,9 +29,10 @@
           "type": "image/png"
         }
       ],
+      "category": "image",
       "creators": [
         {
-          "address": "INSERT_CREATOR_WALLET_ADDRESS_HERE",
+          "address": "mYnRT1M5GgGxaUiicNPr6rTmTHe4uSniRXvuenvCnx2",
           "share": 100
         }
       ]
